@@ -1,0 +1,231 @@
+date,home_team,away_team,home_score,away_score
+1991-11-16T20:45:00+00:00,China PR , Norway,4,0
+1991-11-17T19:45:00+00:00,Denmark , New Zealand,3,0
+1991-11-19T15:30:00+00:00,Norway , New Zealand,4,0
+1991-11-19T19:45:00+00:00,China PR , Denmark,2,2
+1991-11-21T19:45:00+00:00,China PR , New Zealand,4,1
+1991-11-21T19:45:00+00:00,Norway , Denmark,2,1
+1991-11-17T19:45:00+00:00,Japan , Brazil,0,1
+1991-11-17T19:45:00+00:00,Sweden , United States,2,3
+1991-11-19T19:45:00+00:00,Japan , Sweden,0,8
+1991-11-19T19:45:00+00:00,Brazil , United States,0,5
+1991-11-21T15:30:00+00:00,Japan , United States,0,3
+1991-11-21T15:30:00+00:00,Brazil , Sweden,0,2
+1991-11-17T15:30:00+00:00,Germany , Nigeria,4,0
+1991-11-17T19:45:00+00:00,Chinese Taipei , Italy,0,5
+1991-11-19T15:30:00+00:00,Italy , Nigeria,1,0
+1991-11-19T19:45:00+00:00,Chinese Taipei , Germany,0,3
+1991-11-21T19:45:00+00:00,Chinese Taipei , Nigeria,2,0
+1991-11-21T19:45:00+00:00,Italy , Germany,0,2
+1991-11-24T15:30:00+00:00,Germany , Denmark,2,1  (a.e.t.)
+1991-11-24T19:45:00+00:00,China PR , Sweden,0,1
+1991-11-24T19:45:00+00:00,Norway , Italy,3,2  (a.e.t.)
+1991-11-24T19:45:00+00:00,United States , Chinese Taipei,7,0
+1991-11-27T15:30:00+00:00,Sweden , Norway,1,4
+1991-11-27T19:45:00+00:00,United States , Germany,5,2
+1991-11-29T19:45:00+00:00,Sweden , Germany,4,0
+1991-11-30T19:45:00+00:00,United States , Norway,2,1
+1999-06-19T15:00:00+00:00,Denmark , United States,0,3
+1999-06-20T18:30:00+00:00,North Korea , Nigeria,1,2
+1999-06-24T19:00:00+00:00,United States , Nigeria,7,1
+1999-06-24T18:00:00+00:00,North Korea , Denmark,3,1
+1999-06-27T16:00:00+00:00,Nigeria , Denmark,2,0
+1999-06-27T19:00:00+00:00,United States , North Korea,3,0
+1999-06-19T17:30:00+00:00,Brazil , Mexico,7,1
+1999-06-20T16:00:00+00:00,Italy , Germany,1,1
+1999-06-24T17:00:00+00:00,Brazil , Italy,2,0
+1999-06-24T20:30:00+00:00,Germany , Mexico,6,0
+1999-06-27T13:30:00+00:00,Germany , Brazil,3,3
+1999-06-27T16:30:00+00:00,Mexico , Italy,0,2
+1999-06-19T19:00:00+00:00,Japan , Canada,1,1
+1999-06-20T16:00:00+00:00,Russia , Norway,1,2
+1999-06-23T18:00:00+00:00,Norway , Canada,7,1
+1999-06-23T18:00:00+00:00,Japan , Russia,0,5
+1999-06-26T12:00:00+00:00,Canada , Russia,1,4
+1999-06-26T18:30:00+00:00,Norway , Japan,4,0
+1999-06-19T17:00:00+00:00,Sweden , China PR,1,2
+1999-06-20T19:30:00+00:00,Australia , Ghana,1,1
+1999-06-23T20:30:00+00:00,Australia , Sweden,1,3
+1999-06-23T20:30:00+00:00,China PR , Ghana,7,0
+1999-06-26T14:30:00+00:00,China PR , Australia,3,1
+1999-06-26T16:00:00+00:00,Ghana , Sweden,0,2
+1999-06-30T17:00:00+00:00,China PR , Russia,2,0
+1999-06-30T19:30:00+00:00,Norway , Sweden,3,1
+1999-07-01T19:00:00+00:00,United States , Germany,3,2
+1999-07-01T21:30:00+00:00,Brazil , Nigeria,4,3 (a.e.t.)
+1999-07-04T13:30:00+00:00,United States , Brazil,2,0
+1999-07-04T19:30:00+00:00,Norway , China PR,0,5
+1999-07-10T10:15:00+00:00,Norway , Brazil,0,0 [A]
+1999-07-10T12:50:00+00:00,United States , China PR,0,0 (a.e.t.)
+2003-10-01T19:30:00+00:00,United States , Norway,1,0
+2003-10-01T16:30:00+00:00,Brazil , Sweden,1,2
+2003-10-02T19:30:00+00:00,Germany , Russia,7,1
+2003-10-02T22:30:00+00:00,China PR , Canada,0,1
+2003-10-05T19:30:00+00:00,Germany , United States,3,0
+2003-10-05T22:30:00+00:00,Canada , Sweden,1,2
+2003-10-11T15:30:00+00:00,United States , Canada,3,1
+2003-10-12T13:00:00+00:00,Germany , Sweden,2,1 (a.e.t.)
+2007-09-10T20:00:00+00:00,Germany , Argentina,11,0
+2007-09-11T20:00:00+00:00,England , Japan,2,2
+2007-09-14T17:00:00+00:00,Argentina , Japan,0,1
+2007-09-14T20:00:00+00:00,Germany , England,0,0
+17 September 2007[8]20:00,Argentina , England,1,6
+17 September 2007[8]20:00,Japan , Germany,0,2
+2007-09-11T17:00:00+00:00,United States , North Korea,2,2
+2007-09-11T20:00:00+00:00,Sweden , Nigeria,1,1
+2007-09-14T17:00:00+00:00,United States , Sweden,2,0
+2007-09-14T20:00:00+00:00,North Korea , Nigeria,2,0
+2007-09-18T20:00:00+00:00,North Korea , Sweden,1,2
+2007-09-18T20:00:00+00:00,Nigeria , United States,0,1
+2007-09-12T17:00:00+00:00,Australia , Ghana,4,1
+2007-09-12T20:00:00+00:00,Norway , Canada,2,1
+2007-09-15T17:00:00+00:00,Canada , Ghana,4,0
+2007-09-15T20:00:00+00:00,Norway , Australia,1,1
+20 September 2007[9]17:00,Norway , Ghana,7,2
+20 September 2007[10]17:00,Australia , Canada,2,2
+2007-09-12T17:00:00+00:00,Brazil , New Zealand,5,0
+2007-09-12T20:00:00+00:00,China PR , Denmark,3,2
+2007-09-15T17:00:00+00:00,Denmark , New Zealand,2,0
+2007-09-15T20:00:00+00:00,China PR , Brazil,0,4
+20 September 2007[11]20:00,China PR , New Zealand,2,0
+20 September 2007[12]20:00,Brazil , Denmark,1,0
+2007-09-22T17:00:00+00:00,Germany , North Korea,3,0
+2007-09-22T20:00:00+00:00,United States , England,3,0
+2007-09-23T17:00:00+00:00,Norway , China PR,1,0
+2007-09-23T20:00:00+00:00,Brazil , Australia,3,2
+2007-09-26T20:00:00+00:00,Germany , Norway,3,0
+2007-09-27T20:00:00+00:00,United States , Brazil,0,4
+2007-09-30T17:00:00+00:00,Norway , United States,1,4
+2007-09-30T20:00:00+00:00,Germany , Brazil,2,0
+2011-06-26T15:00:00+00:00,Nigeria , France,0,1
+2011-06-26T18:00:00+00:00,Germany , Canada,2,1
+2011-06-30T18:00:00+00:00,Canada , France,0,4
+2011-06-30T20:45:00+00:00,Germany , Nigeria,1,0
+2011-07-05T20:45:00+00:00,France , Germany,2,4
+2011-07-05T20:45:00+00:00,Canada , Nigeria,0,1
+2011-06-27T15:00:00+00:00,Japan , New Zealand,2,1
+2011-06-27T18:00:00+00:00,Mexico , England,1,1
+2011-07-01T15:00:00+00:00,Japan , Mexico,4,0
+2011-07-01T18:15:00+00:00,New Zealand , England,1,2
+2011-07-05T18:15:00+00:00,England , Japan,2,0
+2011-07-05T18:15:00+00:00,New Zealand , Mexico,2,2
+2011-06-28T15:00:00+00:00,Colombia , Sweden,0,1
+2011-06-28T18:15:00+00:00,United States , North Korea,2,0
+2011-07-02T14:00:00+00:00,North Korea , Sweden,0,1
+2011-07-02T18:00:00+00:00,United States , Colombia,3,0
+2011-07-06T20:45:00+00:00,Sweden , United States,2,1
+2011-07-06T20:45:00+00:00,North Korea , Colombia,0,0
+2011-06-29T15:00:00+00:00,Norway , Equatorial Guinea,1,0
+2011-06-29T18:15:00+00:00,Brazil , Australia,1,0
+2011-07-03T14:00:00+00:00,Australia , Equatorial Guinea,3,2
+2011-07-03T18:15:00+00:00,Brazil , Norway,3,0
+2011-07-06T18:00:00+00:00,Equatorial Guinea , Brazil,0,3
+2011-07-06T18:00:00+00:00,Australia , Norway,2,1
+2011-07-09T18:00:00+00:00,England , France,1,1 (a.e.t.)
+2011-07-09T20:45:00+00:00,Germany , Japan,0,1 (a.e.t.)
+2011-07-10T13:00:00+00:00,Sweden , Australia,3,1
+2011-07-10T17:30:00+00:00,Brazil , United States,2,2 (a.e.t.)
+2011-07-13T18:00:00+00:00,France , United States,1,3
+2011-07-13T20:45:00+00:00,Japan , Sweden,3,1
+2011-07-16T17:30:00+00:00,Sweden , France,2,1
+2011-07-17T20:45:00+00:00,Japan , United States,2,2 (a.e.t.)
+6 June 2015 ,Canada , China PR,1,0
+6 June 2015 ,New Zealand , Netherlands,0,1
+11 June 2015 ,China PR , Netherlands,1,0
+11 June 2015 ,Canada , New Zealand,0,0
+15 June 2015 ,Netherlands , Canada,1,1
+15 June 2015 ,China PR , New Zealand,2,2
+7 June 2015 ,Norway , Thailand,4,0
+7 June 2015 ,Germany , Ivory Coast,10,0
+11 June 2015 ,Germany , Norway,1,1
+11 June 2015 ,Ivory Coast , Thailand,2,3
+15 June 2015 ,Thailand , Germany,0,4
+15 June 2015 ,Ivory Coast , Norway,1,3
+8 June 2015 ,Cameroon , Ecuador,6,0
+8 June 2015 ,Japan ,  Switzerland,1,0
+12 June 2015 ,Switzerland  , Ecuador,10,1
+12 June 2015 ,Japan , Cameroon,2,1
+16 June 2015 ,Ecuador , Japan,0,1
+16 June 2015 ,Switzerland  , Cameroon,1,2
+8 June 2015 ,Sweden , Nigeria,3,3
+8 June 2015 ,United States , Australia,3,1
+12 June 2015 ,Australia , Nigeria,2,0
+12 June 2015 ,United States , Sweden,0,0
+16 June 2015 ,Nigeria , United States,0,1
+16 June 2015 ,Australia , Sweden,1,1
+9 June 2015 ,Spain , Costa Rica,1,1
+9 June 2015 ,Brazil , South Korea,2,0
+13 June 2015 ,Brazil , Spain,1,0
+13 June 2015 ,South Korea , Costa Rica,2,2
+17 June 2015 ,Costa Rica , Brazil,0,1
+17 June 2015 ,South Korea , Spain,2,1
+9 June 2015 ,France , England,1,0
+9 June 2015 ,Colombia , Mexico,1,1
+13 June 2015 ,France , Colombia,0,2
+13 June 2015 ,England , Mexico,2,1
+17 June 2015 ,Mexico , France,0,5
+17 June 2015 ,England , Colombia,2,1
+20 June 2015 ,Germany , Sweden,4,1
+20 June 2015 ,China PR , Cameroon,1,0
+21 June 2015 ,Brazil , Australia,0,1
+21 June 2015 ,France , South Korea,3,0
+21 June 2015 ,Canada ,  Switzerland,1,0
+22 June 2015 ,Norway , England,1,2
+22 June 2015 ,United States , Colombia,2,0
+23 June 2015 ,Japan , Netherlands,2,1
+26 June 2015 ,Germany , France,1,1 (a.e.t.) (5
+26 June 2015 ,China PR , United States,0,1
+27 June 2015 ,Australia , Japan,0,1
+27 June 2015 ,England , Canada,2,1
+30 June 2015 ,United States , Germany,2,0
+1 July 2015 ,Japan , England,2,1
+4 July 2015 ,Germany , England,0,1 (a.e.t.)
+5 July 2015 ,United States , Japan,5,2
+"20 September 2003
+",Nigeria , North Korea,0,3
+"21 September 2003
+",United States , Sweden,3,1
+"25 September 2003
+",Sweden , North Korea,1,0
+"25 September 2003
+",United States , Nigeria,5,0
+"28 September 2003
+",Sweden , Nigeria,3,0
+"28 September 2003
+",North Korea , United States,0,3
+"20 September 2003
+",Norway , France,2,0
+"21 September 2003
+",Brazil , South Korea,3,0
+"24 September 2003
+",Norway , Brazil,1,4
+"24 September 2003
+",France , South Korea,1,0
+"27 September 2003
+",South Korea , Norway,1,7
+"27 September 2003
+",France , Brazil,1,1
+"20 September 2003
+",Germany , Canada,4,1
+"20 September 2003
+",Japan , Argentina,6,0
+"24 September 2003
+",Germany , Japan,3,0
+"24 September 2003
+",Canada , Argentina,3,0
+"27 September 2003
+",Canada , Japan,3,1
+"27 September 2003
+",Argentina , Germany,1,6
+"21 September 2003
+",Australia , Russia,1,2
+"21 September 2003
+",China PR , Ghana,1,0
+"25 September 2003
+",Ghana , Russia,0,3
+"25 September 2003
+",China PR , Australia,1,1
+"28 September 2003
+",Ghana , Australia,2,1
+"28 September 2003
+",China PR , Russia,1,0
